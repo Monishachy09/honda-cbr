@@ -11,8 +11,8 @@ span{
 .pictures{
   filter: grayscale(100%);
 }
-.catagore img {
-    width: 50px;
+.category-img img {
+    width:270px !important;
 }
 .card-section{
     margin:50px;
@@ -31,4 +31,7 @@ span{
 }
 .customer{
     color: #23A6F0;
+}
+.sector{
+    background-color: whitesmoke;
 }
