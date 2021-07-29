@@ -1,0 +1,17 @@
+.page-head{
+    background-color: #264653;
+    color: #FFFFFF;
+}
+.btn-bd{
+    background-color:#E76F51;
+}
+span{
+    color: #E76F51;
+}
+.pictures{
+  filter: grayscale(100%);
+}
+.yellow{
+    border-radius: 50%;
+    width: 50;
+}
