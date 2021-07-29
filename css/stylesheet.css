@@ -11,7 +11,24 @@ span{
 .pictures{
   filter: grayscale(100%);
 }
-.yellow{
-    border-radius: 50%;
-    width: 50;
+.catagore img {
+    width: 50px;
+}
+.card-section{
+    margin:50px;
+}
+.card{
+    padding:50px;
+}
+.c-img img{
+    height:200px;
+    width:200px;
+    border-radius: 100%;
+    
+}
+.c-img{
+    text-align: center;
+}
+.customer{
+    color: #23A6F0;
 }
